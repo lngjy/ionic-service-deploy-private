@@ -1,5 +1,5 @@
 {
-  "name": "ionic-service-deploy",
+  "name": "ionic-service-deploy-private",
   "version": "0.1.3",
   "homepage": "http://ionic.io",
   "authors": [
@@ -20,13 +20,13 @@
     "test",
     "tests"
   ],
-  "_release": "0.1.3",
+  "_release": "0.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.3",
+    "tag": "v0.0.1",
     "commit": "fb25c49010c09515c71ba362003871f516783f09"
   },
-  "_source": "https://github.com/scaperow/ionic-service-deploy.git",
-  "_target": "~0.1.3",
-  "_originalSource": "https://github.com/scaperow/ionic-service-deploy.git"
+  "_source": "https://github.com/lngjy/ionic-service-deploy-private.git",
+  "_target": "~0.0.1",
+  "_originalSource": "https://github.com/lngjy/ionic-service-deploy-private.git"
 }
